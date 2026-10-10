@@ -1,29 +1,19 @@
-<h1>Hi, I'm Fan Xu!</h1>
-
-<p>
-A robotics student in Kyoto who loves building things,
-reading history, and enjoying the little moments in life.
-</p>
+<h2>Hi, I'm Fan Xu!</h2>
+Robotics · SLAM · 3D Reconstruction · Mechanical Design
 
 <h3>About Me</h3>
-
-<p>
 I'm currently a first-year Master's student in the
 <strong>Field Robotics Laboratory at Kyoto University</strong>,
 Japan. My background is in mechanical engineering, but
 these days I spend much of my time exploring robotics,
 SLAM, computer vision, and 3D reconstruction.
-</p>
-
-<p>
+<br>
 Outside the lab, I love spending quiet afternoons by
 Kyoto's Kamo River, watching the water flow and enjoying
 the scenery. I'm also a big fan of reading, especially
 history books.
-</p>
 
 <h3>Education</h3>
-
 <table>
 <tr>
 <td width="75" align="center">
@@ -47,50 +37,35 @@ B.Eng. · Mechanical Design, Manufacturing and Automation
 </table>
 
 <h3>A Little About My Background</h3>
-
-<p>
 Back in my undergraduate days, I often joined my lab
 seniors for field experiments in kiwifruit orchards.
 Those trips were always fun, although I must admit
 I was sometimes more excited about deciding where
 to have dinner afterward than the experiments themselves.
-</p>
-
-<p>
+<br>
 I was really into mechanical design back then.
 I loved creating 3D models in <strong>SolidWorks</strong>
 and visiting workshops to see how machines were actually
 made. Even now, manufacturing processes and the little
 details behind mechanical design still fascinate me.
-</p>
 
 <h3>Things I'm Interested In</h3>
-
-<p>
 Mechanical Design · Agricultural Automation · SLAM ·
 3D Reconstruction · Computer Vision · Multi-Sensor Fusion ·
 Deep Learning (still figuring things out!)
-</p>
-
-<p>
+<br>
 My interests are a bit all over the place, but that's
 part of the fun. I enjoy trying new things and discovering
 connections between different fields.
-</p>
 
 <h3>Life Outside the Lab</h3>
-
-<p>
 One of my favorite things about living abroad is meeting
 people from different countries. I love hearing their
 stories, learning about different cultures, and seeing
 the world from new perspectives.
-</p>
-
-<p>
+<br>
 And yes, I love beer. Japan has so many different kinds
 that trying them has almost become a hobby of its own.
 A good conversation over a beer, an interesting history
-book, or a quiet afternoon by the river — that's
-my kind of happiness.
-</p>
+book, or a quiet afternoon by the river — that's my
+kind of happiness.
