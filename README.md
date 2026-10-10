@@ -1,52 +1,96 @@
+<h1>Hi, I'm Fan Xu!</h1>
 
-# Fan Xu
+<p>
+A robotics student in Kyoto who loves building things,
+reading history, and enjoying the little moments in life.
+</p>
 
-**Robotics · SLAM · 3D Reconstruction · Mechanical Design**
+<h3>About Me</h3>
 
-## About Me
+<p>
+I'm currently a first-year Master's student in the
+<strong>Field Robotics Laboratory at Kyoto University</strong>,
+Japan. My background is in mechanical engineering, but
+these days I spend much of my time exploring robotics,
+SLAM, computer vision, and 3D reconstruction.
+</p>
 
-I'm a first-year Master's student in the Field Robotics Laboratory, Graduate School of Agriculture, Kyoto University, Japan.
+<p>
+Outside the lab, I love spending quiet afternoons by
+Kyoto's Kamo River, watching the water flow and enjoying
+the scenery. I'm also a big fan of reading, especially
+history books.
+</p>
 
-In my free time, I enjoy sitting by the Kamo River in Kyoto, appreciating the scenery and spending some quiet time outdoors. I also love reading, especially books about history.
-
-## Education
+<h3>Education</h3>
 
 <table>
-  <tr>
-    <td width="85" align="center">
-      <img src="assets/education/kyoto.jpeg" width="60" alt="Kyoto University">
-    </td>
-    <td>
-      <strong>Kyoto University, Japan</strong><br>
-      Master's Student, Graduate School of Agriculture<br>
-      Field Robotics Laboratory
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="assets/education/NWAFU.jpeg" width="60" alt="Northwest A&F University">
-    </td>
-    <td>
-      <strong>Northwest A&F University, China</strong><br>
-      Bachelor's Degree in Mechanical Design, Manufacturing and Automation
-    </td>
-  </tr>
+<tr>
+<td width="75" align="center">
+<img src="assets/education/kyoto.jpeg" width="55">
+</td>
+<td>
+<strong>Kyoto University, Japan</strong><br>
+Master's Student · Field Robotics Laboratory<br>
+Graduate School of Agriculture
+</td>
+</tr>
+<tr>
+<td align="center">
+<img src="assets/education/NWAFU.jpeg" width="55">
+</td>
+<td>
+<strong>Northwest A&F University, China</strong><br>
+B.Eng. · Mechanical Design, Manufacturing and Automation
+</td>
+</tr>
 </table>
 
-## Background
+<h3>A Little About My Background</h3>
 
-During my undergraduate years, I often visited kiwifruit orchards with senior lab members for field experiments. Looking back, I probably spent as much time thinking about what we would have for dinner afterward as I did thinking about the experiments.
+<p>
+Back in my undergraduate days, I often joined my lab
+seniors for field experiments in kiwifruit orchards.
+Those trips were always fun, although I must admit
+I was sometimes more excited about deciding where
+to have dinner afterward than the experiments themselves.
+</p>
 
-I was particularly interested in mechanical design. I enjoyed creating 3D models with SolidWorks and observing how prototypes were manufactured in workshops. I was especially fascinated by manufacturing process sheets and the practical details of turning designs into real machines. This is something I still find interesting today.
+<p>
+I was really into mechanical design back then.
+I loved creating 3D models in <strong>SolidWorks</strong>
+and visiting workshops to see how machines were actually
+made. Even now, manufacturing processes and the little
+details behind mechanical design still fascinate me.
+</p>
 
-## Research Interests
+<h3>Things I'm Interested In</h3>
 
-Mechanical Design · Agricultural Automation · SLAM · 3D Reconstruction · Computer Vision · Multi-Sensor Fusion · Deep Learning
+<p>
+Mechanical Design · Agricultural Automation · SLAM ·
+3D Reconstruction · Computer Vision · Multi-Sensor Fusion ·
+Deep Learning (still figuring things out!)
+</p>
 
-My interests span both mechanical engineering and robotic perception. I enjoy exploring different technologies and understanding how they can work together in practical systems.
+<p>
+My interests are a bit all over the place, but that's
+part of the fun. I enjoy trying new things and discovering
+connections between different fields.
+</p>
 
-## Beyond Research
+<h3>Life Outside the Lab</h3>
 
-I enjoy meeting people from different backgrounds and learning about their cultures and experiences.
+<p>
+One of my favorite things about living abroad is meeting
+people from different countries. I love hearing their
+stories, learning about different cultures, and seeing
+the world from new perspectives.
+</p>
 
-I also enjoy discovering different kinds of beer, especially in Japan. Whether it's a good conversation over a drink, an interesting history book, or a quiet afternoon by the river, I appreciate the simple pleasures in life.
+<p>
+And yes, I love beer. Japan has so many different kinds
+that trying them has almost become a hobby of its own.
+A good conversation over a beer, an interesting history
+book, or a quiet afternoon by the river — that's
+my kind of happiness.
+</p>
